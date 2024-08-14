@@ -9,3 +9,5 @@ def sorting(x):
 
 llist = [7, 8, 5, 2, 20, 4, 92]
 print(sorting(llist))
+
+# this function using selection sort algorithm
